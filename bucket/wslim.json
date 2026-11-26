@@ -1,10 +1,10 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "Find what WSL can safely let go of, clean it, and shrink its virtual disks on Windows (works on Windows Home).",
     "homepage": "https://github.com/4riful/wslim",
     "license": "MIT",
-    "url": "https://github.com/4riful/wslim/releases/download/v1.1.1/wslim-1.1.1-win-x64.zip",
-    "hash": "16383d6396ea785e175abf718cdfc943a597d4146612ebed7dc189780590461f",
+    "url": "https://github.com/4riful/wslim/releases/download/v1.1.2/wslim-1.1.2-win-x64.zip",
+    "hash": "fc8e579c8cdf6b5afdff1d35765b699cde0be457d59d8942aa47c2a54100dca9",
     "bin": [
         "wslim-cli.exe",
         "wslim.exe"
